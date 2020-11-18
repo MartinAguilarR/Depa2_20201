@@ -1,2 +1,4 @@
-# Depa2_20201
-Entrega de Departamental 2 de Cátedra Big Data- UTEM
+# Exámen Final: Big Data
+
+Código referente a exámen final de Cátedra Big Data- UTEM.
+Extracción HTML, exploración y visualización de Data.
